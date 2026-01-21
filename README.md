@@ -10,7 +10,8 @@ Formato mínimo (recomendado):
 ```json
 {
   "JGR_Admin": "1.0.0",
-  "": "1.0.0"
+  "JGR_Barber": "1.0.0",
+  "JGR_Antilag": "1.0.0"
 }
 ```
 
