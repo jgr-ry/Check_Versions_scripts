@@ -4,6 +4,14 @@
   "JGR_Antilag": "1.0.0",
   "JGR_Doors": "1.0.0",
   "JGR_Banking": "1.0.0",
+  "JGR_Reports": "1.0.0",
+  "JGR_IlegalSystem": "1.0.0",
+  "JGR_CityHall": "1.0.0",
+  "JGR_Dealership": "1.0.0",
+  "JGR_Delivery": "1.0.0",
+  "JGR_Graves": "1.0.0",
+  "JGR_Trash": "1.0.0",
+  "Antilag_System": "1.0.0"
 }
 
 
